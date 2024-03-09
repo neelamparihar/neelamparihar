@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neelam Parihar</h1>
 <h3 align="center">A passionate MERN STACK developer from India</h3>
-<img align="right"  alt "Coding"  width="400"  src="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif">
+<img align="right"  alt "Coding"  width="200"  src="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif">
 
 - 👨‍💻 All of my projects are available at [https://neelamlatestportfolio.netlify.app/](https://neelamlatestportfolio.netlify.app/)
 
